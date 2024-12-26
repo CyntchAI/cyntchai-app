@@ -1,8 +1,8 @@
-# Cyntch AI
+# Simplify AI
 
 > The Intelligent Copilot for Solana
 
-Cyntch AI is an open-source, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the Solana ecosystem, Cyntch AI enables seamless interactions with DeFi protocols, NFTs, and much more.
+Simplify AI is an open-source, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the Solana ecosystem, Simplify AI enables seamless interactions with DeFi protocols, NFTs, and much more.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
