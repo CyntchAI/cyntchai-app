@@ -1,8 +1,8 @@
-# Sophie AI Agent
+# AI Agent v1.0.1
 
 > The Intelligent Copilot for Solana
 
-Sophie AI Agent is an open-source, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the Solana ecosystem, Sophie AI Agent enables seamless interactions with DeFi protocols, NFTs, and much more.
+Our AI Agent is fully an open-source, full-stack application that brings together the power of LLM models and blockchain technology. Designed for the Solana ecosystem, Our AI Agent enables seamless interactions with DeFi protocols, NFTs, and much more.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
